@@ -1,4 +1,10 @@
 # cloudsat_quicklook_tool
+2020/05/12 update
+
+copying the .ipynb content to .py file work without significant problem on work station on python 3.6
+
+now working on collocating MODIS level 2 cloud top temperatre or cloud top pressure
+
 2020/05/07
 
 notice that there are some limitations of the this script for now
