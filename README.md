@@ -1,4 +1,10 @@
 # cloudsat_quicklook_tool
+2020/06/30 update
+
+MODIS level2 product now is available collocatring with CloudSat
+
+but first you need an account and an app key for downloading MODIS .hdf files
+
 2020/05/12 update
 
 copying the .ipynb content to .py file work without significant problem on work station on python 3.6
